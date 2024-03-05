@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+target/
+*.iml
+.idea/
+.vscode/
+.DS_Store
